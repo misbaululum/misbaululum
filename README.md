@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=misbaululum&show_icons=true&count_private=true&theme=gotham" alt="Misbaul's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbaululum&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=misbaululum&show_icons=true&count_private=true&theme=react-dark" alt="Misbaul's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=misbaululum&layout=compact&theme=react-dark&langs_count=8" alt="Top Languages" />
 </div>
 
 <!---
