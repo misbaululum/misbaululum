@@ -3,13 +3,19 @@
 
 <hr>
 
-- **HTML** (currently)
-- **CSS** (currently)
-- **JavaScript** (Beginner)
-- **Python** (Coming Soon)
+- **HTML**
+- **CSS**
+- **PHP**
+- **JavaScript** 
+- **Python**
+- **CodeIgniter**
+- **Laravel**
 - I regularly write articles on [elcreativeacademy.com](https://www.elcreativeacademy.com/)
-- Ask me about **drag & drop system apps** (GlideApp.io)
+- Ask me about **Laravel Deployment Website** 
 - Ask me about **WordPress Development** (Elementor Page Builder)
+- Ask me about **Ai Prompting Engineer** (Elementor Page Builder)
+- Ask me about **IT Supporting** (Elementor Page Builder)
+- Ask me about **Cloud Engineer** (Elementor Page Builder)
 - How to reach me: **misbaul99@gmail.com**
 
 <br>
