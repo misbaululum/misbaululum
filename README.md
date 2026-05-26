@@ -3,14 +3,6 @@
 
 <hr>
 
-- **HTML**
-- **CSS**
-- **PHP**
-- **JavaScript** 
-- **Python**
-- **CodeIgniter**
-- **Laravel**
-- I regularly write articles on [elcreativeacademy.com](https://www.elcreativeacademy.com/)
 - Ask me about **Laravel Deployment Website** 
 - Ask me about **WordPress Development** (Elementor Page Builder)
 - Ask me about **Ai Prompting Engineer**
